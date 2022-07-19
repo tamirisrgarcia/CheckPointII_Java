@@ -2,9 +2,10 @@
 
 - Digital House Brasil
 
-  - [X] UML;
-  - [X] Exibir dados;
-  
+  - [X] Criação do UML;
+  - [X] Criação de interfaces e/ou classes abstratas;
+  - [X] Tratameto de Exception;
+    
   
   
   Exemplo:
